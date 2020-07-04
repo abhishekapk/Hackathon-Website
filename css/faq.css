@@ -1,0 +1,21 @@
+
+h5 {
+	font-family: Times New Roman;
+}
+
+.bg-cover {
+			background-position: center;
+			background-size: cover;
+		}
+		
+.banner-area {
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		
+	}	
+	@media (max-width: 767px){
+		.banner-area {
+			background-color: #f7f9f4;
+			}
+		}

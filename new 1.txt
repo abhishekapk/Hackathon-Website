@@ -1,0 +1,208 @@
+<!Doctype HTML>
+<html>
+	<head>
+		<meta charset="utf-8">
+			<title>HACKATHON </title>
+			<style>
+			
+			*{
+			margin:0;
+			padding:0;
+			font-family:sans-serif;
+			}
+			
+			
+			.team-selection{
+			overflow:hidden;
+			text-align:center;
+			background:black;
+			padding:70px;
+			
+			
+			
+			}
+			
+			.team-selection h1{
+			text-transfrom:uppercase;
+			margin-bottom:60px;
+			color:black;
+			
+			
+			font-size:55px;
+			text-align:center;
+			font-style:algerian;
+			margin:auto;
+			width:100%;
+			background-color:yellow;
+			font-style:oblique;
+			font-weight:bold;
+			font-variant:small-caps;
+			text-shadow:2px 2px;
+			
+			}
+			
+			.team-selection h3{
+			
+			color:white;
+			font-size:30px;
+			text-transform:lowercase;
+			margin-bottom:30px;
+			font-style:italic;
+			
+			}
+			.website-selection{
+			
+			overflow:hidden;
+			text-align:center;
+			background:black;
+			padding:70px;
+			
+			}
+			
+			.border{
+			display:block;
+			margin:auto;
+			width:160px;
+			height:3px;
+			background:yellow;
+			margin-bottom:40px;
+			}
+			
+			
+			.ps{
+			margin-bottom:40px;
+			
+			}
+			
+			.ps a{
+			display:inline-block;
+			margin:0 30px;
+			height:300px;
+			width:300px;
+			overflow:hidden;
+			border-radius:50%;
+			}
+			
+			.ps a img{
+			width:100%;
+			filter:grayscale(100%);
+			transition:0.4s all;
+			
+			}
+			
+			.ps a:hover>img {
+			
+			filter:none;}
+			
+			.section{
+			
+			width:600px;
+			margin:auto;
+			font-size:20px;
+			color:white;
+			text-align:justify;
+			
+			
+			
+			
+			}
+			.section:target{
+			height:auto;
+			}
+			
+			.name{
+			
+			display:block;
+			margin bottom:30px;
+			text-align:center;
+			text-transfrom:uppercase;
+			font-size:22px;
+			
+			}
+			
+			.peer{
+			
+			display:block;
+			margin bottom:20px;
+			text-align:center;
+			text-transfrom:uppercase;
+			font-size:12p;
+			
+			
+			}
+			</style>
+			</head>
+			<body>
+			<div class="team-selection">
+				<h1>WORKSHOP PAGE</h1>
+				<h3>ghrjkkpiuytfhdbdnjzSyeugsgbfbs,mdn</h3>
+				
+				<span class="border"></span>
+				<div class="ps">
+				<a href="#"><img src="https://syntaxxx.com/wp-content/uploads/2014/08/html5-logo-600.jpg" height="300" width="50"></a>
+								<a href="#"><img src="https://dkl2gez3gijkp.cloudfront.net/lib/uploads/2012/12/css-3-help1.jpg" height="300" width="80" alt="content" ></a>
+												<a href="#"><img src="https://ih1.redbubble.net/image.627278630.5407/flat,750x,075,f-pad,750x1000,f8f8f8.jpg " height="300" width="10"></a>
+												</div>
+												<div class="section" id="pl">
+												<span class="name">HTML</span>
+												<span class="peer">FIRST DAY</span>
+												<span class="border"></span>
+												<p> 1st we are conding our pybdfjlkdoidufhfbdbvdhcxjjxckn</p>
+												</div>
+												
+												<div class="section" id="p1">
+												<span class="name">CSS</span>
+												<span class="peer">SECOND DAY</span>
+												<span class="border"></span>
+												<p> 1st we are conding our pybdfjlkdoidufhfbdbvdhcxjjxckn</p>
+												</div>
+												
+												<div class="section" id="pl">
+												<span class="name">JAVASCTIPT</span>
+												<span class="peer">THIRD DAY</span>
+												<span class="border"></span>
+												<p> 1st we are conding our pybdfjlkdoidufhfbdbvdhcxjjxckn</p>
+												</div>
+												
+												
+												
+												
+												
+												
+												<div class="website-selection">
+				
+														
+															<div class="ps">
+													
+															
+												
+												<a href="#"><img src= "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/bciJjUAsRzG6UQbCRcVe"height="300" width="420"></a>
+												<a href="#"><img src=" https://icon-library.com/images/github-icon-svg/github-icon-svg-0.jpg" height="300" width="50" alt="content">
+												<a href="#"><img src=" data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8NDQ0NDQ0ODQ0NDQ0NDQ0NDQ8NDQ8NFhIaFhURFhMYHSgkGBolGxYVITIhJjUrLy46GB8zODMsNykuLisBCgoKDQ0OFw8QFyseHSMrKystLS0rLSsrLi0rLS0rKy0rLS0rLSsrKy0tKystLS0tKy0tLSsuLS0rLS0rLSsrLf/AABEIAOEA4QMBEQACEQEDEQH/xAAcAAEBAAIDAQEAAAAAAAAAAAAAAQIGBAUHCAP/xABCEAACAQMCAgcEBggDCQAAAAAAAQIDBBEFMSFxBgcSE0FRgRQiYaEjMkKCkbEWMzRicpKiwSRS0RUXQ0RUY3Oywv/EABsBAQEAAwEBAQAAAAAAAAAAAAABAgQFAwYH/8QAMxEBAAIBAgQFAgMIAwEAAAAAAAECAwQRBRIhMRMiMkFRYYEUcbEGFSMzocHR8VLh8JH/2gAMAwEAAhEDEQA/ANTjsuSODPd+sU9MKRmoUAoUAACC5AAAGQIUAAAIgACFQCAECIACIACAEKgBnHZckSe7KnphQyAqkUAAAqhAKAAAQCoEAATdCgEAIEAJkAEQAECiBAAEZR2XJEnuyp6YZBmAAoAIKAyFMgMg3MgAiA3CgEMgAIEAJkAEQAEABUQAEQAEZx2XJCe7OnphSMgAFUBkBkBkBkBkBkBkABAAQyAyBMhACAAgAKiAAiAAgUQDOOy5Ik92VPTCkZGQqgMgAAAAAAZAZAZAmQhkAAAgAIFECAAIgAIFECAADKOy5Ik92VPTCkZgACgAAAADcAAQAATABAAUAiAAAQyBAgUQIAQAEAM47LkiSyp6YUMwAAIAAAAAACgBtuiWFrZ2C1S/oq6lWqSpWNpJ4pz7O9SfmuD3zt5s2cda0p4lo3+HC1efPqNT+EwW5Yjra39odr0f1iw1WurK80y1oSrJxoVraPdyU0s9nKWU8Lg/TB6UyUyzy2q09Xo9VoaePhzWtt3iWr9Luj09LunQk3OlJd5QqtYc6edn+8nwfo/E182KcdtnY4br66zFz9pjpMOkPJ0AAETIAIAQoBACBAABCoAZx2XJEnuyp6YUjMAAAAAAAAAAI3wBDcen30dvotuvqU9OjUx+9PGX/SbWo6RSv0cHg/myajJPebbOg6Nya1Cxcd1d2+Mfxo8cXrh0tdETpskT8S9N65bJSsre4S96jcqGfFU6kWmv5owN7WV8kS+W/ZzNNdRbH7TH9Y/9LyA5r7PcAFECAAABAgBCgEMgQIAZx2XJEnuyp6YUjIAAAAAAAAAADKrb+nb7y10O48Kmnqn96HZ4fNmzn61pP0cLhPly6jH8W3db0Et++1axh5Vu8fKEXL+yPPBG+SG3xa/Jo8k/TZ6h1uSxpE/jcW6XPtZ/szf1X8uXyvAYmdZX8peInLfdAACAAgAAhUAAECABhADKOy5IksqemFDIAZAZAZAZAZAZAAAAG33H+K6NUJrjPTb6dKXn3VTivTM4r0NmfNhifiXDp/B4paPbJXf7x/pzep2y7zUK1d/Vt7dpfx1JYXyjMy0ld7TLy/aLLy4K4/mf0/22DroucWdpR8al06mP3YU5L85o9tZPliHO/Zym+e9/iv6zDyI5z7EAZAFRAAACBAAECgDdAhkDJbLkiSyp6YUjIAAAAAAAAAAGQNw6u5xru+0uo8R1G1kqbe0a8E3Fr44efuo2dP13pPu4nGKzTw9TXvSev5S3nqj0mVvY1atWDhVr3E1KLXvKNJuCX8yn+JtaWnLXq4fHdTGbPEVnpEfr1/w1Trkvu8v6FBPhb0O0/hOpLLX4RieGrtvaIdX9ncXLhtk+Z/T/AG0A1H0IAyAAgQABAAUTIQyBMhAABlHZckSWVPTChkAAAAAFAgAAZAZA5ej3FWldW1Shxrwr0nSWcdqfaSUeTzj1MqTMWiYa+qrS+G9b9tpfSsEorZR8cLbO7+Z2X5vPWXzl0o1H2zULu4TzGpXmqbTyu6j7sP6Un6nIy25rzL9E0GHwdPSn0/V1Z5tsABAADcKiAMgQAEAJkIAAM14ckJZU9MKRkAQAAAoEAA3AGQARt/VbpXtWp06klmnaRdxLhw7e1Nfjl/dNjTU3vv8ADj8b1Phaaax3t0+3u9p1eUe5lTlVVF106FOo8ZVWaajjPjk6Nu2z43DE88WiN9uv2h83X9lUtq1S3rR7NWjN05x8MrxXmnuuaORas1naX6LhzVy0jJXtL8CPUAgTcyBMgAgAAgQAAAJkIAZx2XJCe7KnphQyAAAAAAAAAN0CbgHtvVHpHs+ne0TWKl7PvduKor3YL/2l946WmptTf5fFcc1Pi6jkjtXp9/d0HXNrL720s6cnF0v8VUcW01N+7T4+axN+qPLVX6xWG9wDTRNb5bR36f5dVrsFrWnx1Sil7dZxVHUqUd500uFdL58sr7JhePFpzx3ju2dNadDqJ0958lutZ/s0XJqu8BAABAAQAAAIAKgACAGSfBckJZU9MBGRkBkAAyEMgMgAAADnaHpsr27t7WG9erGDa+zDecvSKb9DKlea0Q19VnjBhtkn2h9I04wt6KisQpUaeF4KNOMf9EdfpEPz2Zte2/eZfOHSHVHfXlxdPP01RuCe8aa4QX8qRyclua02foOjwRgw1x/H6v16L67U026hcQXahhwr0vCrRe8efiuRcd5pO7DW6SupxTSe/tPxLs+mWg06Sp6hYYnpl571NxX6io96Ml4cc48sY8FnPLjiPPXtLW4frLW30+bpkr/WPlqx4OoAAAACFQABDIEABAABktlyEsqemAjIAAAGQGQGQgAAAepdTGh8a2o1I+dvb5/GpJfKPpI3dLTvaXzHH9Vvy4I/Of7O962tbVtp7toS+mvc0seKoL9Y/VNR+8eupvy12+WlwXS+Ln557V6/f2eIHNfaJkDa+g2rVaTqWtS1rXunXXu3NCnRqVuy3/xYKK3XDPLzSNjDaY6TG8S5HEsGO22St4rkr2neI+znaz1aXsLhxsqff2s8Tp1Z1KdKUIv7E1Jp5XwRb6a2/l7PLT8bwzj/AIs7Wj6b7/k4/wDu8uYftF7p1t/5brj+Q/DzHeYZ/vnHPox2t9mP6HWkeE9f06L/AHX2/wD6Q8GvveD955p7aeyrobaS4Q6QadJ+Cl7i/HtjwK/84T96Zo76ey1eri+cXO1q2d9Ff9NcLL/mwvmJ01vbqteNYN9slbU/OGr6jp1e1n3VzRqUJ+EakXHK84vaS+KyeNq2rO0w6OLPjyxzUtu4pi9gIARgMhEAAZrZchLKnphckZGQGQGQGQGQhkCZAFN3J06yqXVelb0lmpWqRpx+Dfi/gll+ha1m0xEPLNlrix2yW7Q+kdG02nZWtG2pcIUaagn4t7yk/i3l+p1q1isREPz7PltmyWyW7zLy3pP0f1LWb6rcukrWzp/Q0Kl5PuUqMX9fsPj7zbfFLdGnkx3yW37Q+j0Ws0ujwxSJ5rT1nbr1dX/sLRbT9t1aV3UXF0dPgpQePBz9780YeHir6rb/AJNn8Xr838rFyx82T9KdMtf2DRacpLatfTdaWfPs8fzQ8XHX01PwGry/zs32q4951i6nUXZhWp20f8ttQhBY5yy/wJOov+T0pwfS162ibT9ZTQ+nN1QnUjeSnf2tx7txQrz7T7L4Nwb+q8eGz+G4pntE+brBqeFYb1jw45LR2mP7v21bodTr05X2izd5bb1Lb613by37LjvL8+e5bYYmOanWHnp+IWx28LVRy2+faWnNYbWMNNpp8Gn5YNd2IneN4kBu5Om6jWtKsa9tUlRqQeVKDwnjwkvtL4MyraazvDyzYMeas0vG8PoV2dDV9Oo+1UU43FCnUxtKnOUE+1F+DWTp7RevV8LGS+lzT4c9pfPeq2UrW5r20nmVCrUpOW2ey8J+q4nMtXlmYfc4MsZcdcke8OJkxeoBCoZAAAMo7LkSVp6YXIZmQGQhkBkCZAAMgdtofRy81CWLS3lOOcOtL3KMec3w9FlnpTHa3aGpqNdg08ee3X493q3V/wBBI2FT2ytXp3NfsSpwVJZpUnnE8S+1Lg1nh4m5hwck7zO75niXFLaiPDrXlr/WXI6y+lstMo06VtJK7rvMW0pd3SW88Pxb4L18jLPl5I2juw4VoI1N5tf0w8Y1PV7m8l2rq4q135VJtxXKOy9EaFr2t3l9Zi02HDG1KxDhGD3AAEA5emalXtKqrW1adGqvtQe68mtpL4MyraazvDxzYMeavLkjeG2PpRp+pJLWLLu6+Me32PuT5zh4/wBXJHv4lL+uPu5X4LU6ad9NfeP+Mp+g9vdcdM1i0uM8Y0bh9zWivJ4y/kh4FZ9Nl/emXH0z4Zj6x2dtovVJWdSMr+4pKkpJypW/bnKpHy7bS7PPD/uZ00s7+aWtqOPV5ZjFWd/mXous6/Z6XQzXqwgoQSp0Itd7JJYUYw38EbVr1pHVwsGmzai+1Y3393zvqt9K6uK9zNYlXqzqtLil2nnHpscy1uaZl9zgxxix1xx7Q4pi9QCBAAAAyjsuQlaemFIyAAAAAyB2GiaLc6hV7m0pOpLh2pbU6a85y2S+ZnSlrTtDX1GqxaevNknb9W0ysdJ0f9rktXv4/wDLUnizpS8pye/rn+E9uXHj79ZcvxdZrP5f8Onz7pZavqPSC7p2Mans1o+NWlaruqVO2jvlrjLdJJ8MtcC1vfLbl7QuTT6bQYpyzHNb2mfeXsFepb6bZuTxStrSikktowisKK82+C+OTdmYrX6Pl61vny7R1taXzv0i1ipqF3Wu6vB1Je5DOVTpLhGC5L55Zy8l5vbd91pNPXT4ox19v1dcYNgAZKIAABNwCPiBnCrKKxGc4ryjOUV+CLvLGaVnvDDBFAAAAVEAZBuZCMk+C5EllXtC5IyMgMgMgANj6KdGfbFUubmp7Np1vxuLiXBv/tw85bcs+L4Htjxc3Wezn63W+DtjxxzXntH+XJ13phml7DpcHY6fHh7j7Nxcecqk9+PlnL8fIyvl6ctOkPLTcP8AN42onmv/AEhqtGlKcowhFynOSjCEVmUpPgkl5nhETMuna0VibT0iHv8A0A6Lx0q0xNJ3VZRnczXHD8KaflHL+bOnhx8lfq+J4jrZ1WXePTHZ531pdLvba3sVtPNrbzfeST4Vqy4esY+Hm+Pkauoy808sdnc4RoPCr414809vpDQTWdsyAyAAAQIAAAAAVEAZAAAiAAhkDJPguQllX0wuSMtzIAG4DdlSg5yjFcHKUYp/FvBYjedmN7ctZt8N06ybn2advo1DMLWxo0nKK4d7cSj2nUl5vjnnJnvnnbakdocjhVPE5tTfra0z9oaVFNtJJttqMYpZbb2SXizXdiZiI3l7L1a9BfY1G+vYL2qS+hpPj7PFrd/vtfh+Jv4MPL5p7vk+KcT8afCxz5ff6/8AThdZnTtQU9Osan0jzC6rwf6teNKD/wA3m/DbfbHPm28tXtwrhnNMZssdPaHkppPpgAAAACiAAhkAACAACZCGQGQIUAgFZR2XIkrXtCkZAAAA+Xx2wypPXu393+ma5Cg9SuJafqFKnGlOuku4uIR2k21hP8N3ujZ3pk9U7S4fharRTbwY56T1294bHoVHo7o679X9G6rpZVV1IXFWPwhTpr3fz+J60jFj67tHPfiGr8k0mI+O3/10HTDrNq3UZW+nqVtQknGdeXC4mvKOPqL58jyyaiZ6Vbui4PXHMXzdZ+Pb/t54azuoAAAAATcAAAJkAEMgCiAAARAAAIAZR2XIksq+mFyGW5kG5kIZAAAAAAAAgABkBkIZKJkAAABACAMhAAAAgAIAZp8FyEsq9oMkUyAyAAAMlDJAyUTIAAACAAABMgAAQAAMgQAACAAoBACrZciSyr2hQoAAAAGQGQGQbpkAAABAAAyBAAAAEABQCIABuZCGQIAyBktlyJLKvphQoAAAMgTIDIAAAABAAAAAAgBCm4AABNwCAMgAgBAAGa2XIStfTARkAAbgAAAAAABUQAAAAAm5kABMgMgAgBABQCAAAAAyjsuRJWvaFDJAAAAACbgABkBkBkCAAAQAAQAAKgAAAAIEMgAAEAzjsuQnuyr2hSKAQAAAAAAAAwIAABJAAAAUAgAABEYEYAIoUCMWUAP/2Q==" alt="content"">
+													</div>
+
+											<div class="section" id="pl">
+												<span class="name">BOOTSTRAP</span>
+												<span class="peer">FOURTH DAY</span>
+												<span class="border"></span>
+												<p> 1st we are conding our pybdfjlkdoidufhfbdbvdhcxjjxckn</p>
+												</div>
+												
+												<div class="section" id="p1">
+												<span class="name">GITHUB</span>
+												<span class="peer">FIFTH DAY</span>
+												<span class="border"></span>
+												<p> 1st we are conding our pybdfjlkdoidufhfbdbvdhcxjjxckn</p>
+												</div>
+												
+												<div class="section" id="pl">
+												<span class="name">ADOBE</span>
+												<span class="peer">SIXTH DAY</span>
+												<span class="border"></span>
+												<p> 1st we are conding our pybdfjlkdoidufhfbdbvdhcxjjxckn</p>
+												</div>
+													
+
+												
+												</body>
+												</html>
